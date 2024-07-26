@@ -3,6 +3,8 @@ justsong/one-api:latest
 labring/fastgpt:latest
 bitnami/mongodb:4.4.15
 ankane/pgvector:v0.4.2
+
+
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
