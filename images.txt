@@ -1,6 +1,6 @@
 yihong0618/xiaogpt:v2.63
 justsong/one-api:latest
-labring/fastgpt:latest
+#labring/fastgpt:latest
 bitnami/mongodb:4.4.15
 ankane/pgvector:v0.4.2
 
