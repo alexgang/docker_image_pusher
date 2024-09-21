@@ -5,6 +5,7 @@ bitnami/mongodb:4.4.15
 ankane/pgvector:v0.4.2
 xiaoyaliu/alist:latest
 idootop/mi-gpt:latest
+idootop/mi-gpt-tts:latest
 
 #nginx
 #支持私库
