@@ -1,12 +1,13 @@
 yihong0618/xiaogpt:latest
 justsong/one-api:latest
-#labring/fastgpt:latest
+labring/fastgpt:latest
 bitnami/mongodb:4.4.15
 ankane/pgvector:v0.4.2
 xiaoyaliu/alist:latest
 idootop/mi-gpt:latest
 idootop/mi-gpt-tts:latest
-
+openvino/model_server:latest-gpu
+openvino/model_server:latest
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
